@@ -1,0 +1,8 @@
+# Neki folder vezani za IDE
+.idea/
+
+# Neki file vezani za IDE
+*.iml
+
+# Fajlovi generirani od strane kompajlera
+out/
